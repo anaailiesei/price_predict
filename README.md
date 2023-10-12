@@ -1,6 +1,12 @@
 # price_predict
 Matlab algorithm for apartaments' price prediciton
 
+# Used data from Housing.csv file (with pricing information) and divided them in 2 files:
+* housing_training.csv (for training the model)
+* housing_test.csv (for testing the model)
+
+  ## Results are included in results file
+  
 *parse_data_set_file.m*
 
     1. Se importeaza datele (cu separatorul " ")
